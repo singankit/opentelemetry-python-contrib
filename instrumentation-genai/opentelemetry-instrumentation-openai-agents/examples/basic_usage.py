@@ -1,11 +1,6 @@
 ################################
-#
-# pip install azure-monitor-opentelemetry oepnai-agents
-# pip install opentelemetry-instrumentation
-# pip install opentelemetry-sdk
-# pip install opentelemetry-instrumentation-openai-agents
-# pip install opentelemetry-exporter-otlp
-# pip install azure-monitor-opentelemetry
+# pip install git+https://github.com/singankit/opentelemetry-python-contrib.git@main#subdirectory=instrumentation-genai/opentelemetry-instrumentation-openai-agents
+# pip install azure-monitor-opentelemetry openai-agents
 #################################
 
 
